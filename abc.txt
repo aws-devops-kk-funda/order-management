@@ -1,2 +1,2 @@
 Hi Team lets start Git practice
-Added this file in .gitignore
+Added this file in .gitignore..
